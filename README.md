@@ -28,4 +28,4 @@ This tool simulates how real-world systems enforce stronger credential policies 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-strength-analyzer.git
+   git clone https://github.com/KryptexSNRG/password-strength-analyzer.git
